@@ -7,3 +7,7 @@ Xenon by @Kumle Developers
 Free for personal and commercial use.
 
 Jump into the world of coding with easy-to-follow tutorials, hands-on projects, and interactive lessons. Learn programming at your own pace and build your dream projects! 💻✨
+
+Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images you can use for pretty much whatever.
+
+Link: https://xenonp.netlify.app/
